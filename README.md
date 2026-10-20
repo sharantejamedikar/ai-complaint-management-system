@@ -1,32 +1,17 @@
 # AI Complaint Management System
 
-This project was developed as my final year project during my BTech in Computer Science at NIT Silchar and later handed over to a government department for operational use.
+A documentation-only project record with a stated focus on machine-learning-based complaint classification and priority prediction.
 
-## Overview
+## Public repository scope
 
-The system uses machine learning techniques to automatically classify and prioritise citizen complaints, helping authorities manage cases efficiently and reduce manual processing time.
+The repository contains this README and a licence. It does not include application source code, dependency files, notebooks, datasets, trained models, tests or evaluation results.
 
-## Key Features
+The project topic is retained, but no specific technology stack, implemented feature, preprocessing pipeline or model performance is claimed as verified by this repository.
 
-- Automated complaint classification using machine learning algorithms
-- Complaint priority prediction to assist law enforcement decision making
-- Data preprocessing and feature engineering pipeline
-- Model evaluation and performance analysis
+## Evidence boundaries
 
-## Technologies Used
+This overview makes no claim of government deployment, operational handover, active users, measured time savings or professional/commercial experience. Adoption evidence from Police Night Patrolling belongs to that separate project and is not evidence for this one.
 
-Python  
-Pandas  
-NumPy  
-Scikit-learn  
-Machine Learning  
+## Running the project
 
-## Project Impact
-
-- Developed and deployed for government complaint handling
-- Used by 60+ active users
-- Reduced manual complaint sorting time by approximately 40%
-
-## Note
-
-Due to government data privacy and ownership policies, the original source code cannot be publicly shared.
+There is no public implementation to install or reproduce. Implementation details and results should be documented only when supporting source artefacts are available.
